@@ -58,4 +58,4 @@ There is an example of how environment variables could be defined
 
 * SSH access is allowed from any ip to each instance
 * Web ports(80, 443) are allowed from any ip for frontend instance
-* All network interaction are allowed inside the local network
+* All network interactions are allowed inside the local network
